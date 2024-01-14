@@ -19,7 +19,7 @@ header .header-inner .menu ul li span:hover,
 .mCSB_dragger_bar:after,
 header .header-inner .mail p span,
 .main-post .meta i {
-    color: #ff1466;
+    color: #ff14ad;
 }
 .home .cta,
 .nav-item,
@@ -35,9 +35,9 @@ header .header-inner .menu ul li span:before,
 .timeline ol li:not(:last-child)::after,
 .blog-page .page-item.active .page-link,
 .blog-page .page-item .page-link:hover {
-    background-color: #ff1466;
+    background-color: #ff14ad;
 }
 
 .home>div>div h1 > span > span > span {
-    text-shadow: 8px 8px #ff1466, 20px 20px #222;
+    text-shadow: 8px 8px #ff14ad, 20px 20px #222;
 }

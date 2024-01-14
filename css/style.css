@@ -1,10 +1,4 @@
-/*
-Template Name: Salimov - Horizontal Personal Portfolio
-Author: celtano
-Author URI: http://themeforest.net/user/celtano
-Description: Salimov - Horizontal Personal Portfolio
-Version: 1.0
-*/
+
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -368,7 +362,7 @@ ul {
 	cursor: pointer;
 	text-decoration: none;
 	user-select: none;
-	background-color: #222;
+	background-color: #e9264d;
 }
 
 .custom-btn span {
